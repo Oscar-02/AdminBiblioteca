@@ -1,0 +1,2 @@
+MainPackage=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x86\Release\ProyectoPED_0.2.0.0_x86.msix
+SymbolPackage=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\obj\x86\Release\Symbols\ProyectoPED_0.2.0.0_x86.appxsym

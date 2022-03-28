@@ -1,0 +1,7 @@
+MainPackage=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_x64.msix
+SymbolPackage=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\obj\x64\Release\Symbols\ProyectoPED_0.2.0.0_x64.appxsym
+ResourcePack=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_language-es.msix
+ResourcePack=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_scale-100.msix
+ResourcePack=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_scale-125.msix
+ResourcePack=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_scale-150.msix
+ResourcePack=E:\Visual Studio Projects\UWP C#\ProyectoPED\ProyectoPED\bin\x64\Release\ProyectoPED_0.2.0.0_scale-400.msix
